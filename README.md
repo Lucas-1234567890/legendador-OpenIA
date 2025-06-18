@@ -22,7 +22,4 @@ Projeto simples e direto ao ponto: um **app web em Streamlit** que recebe um **v
 4. Gera o arquivo `.srt` com as legendas
 5. Exibe a transcrição direto na interface
 
----
-
-## 📂 Estrutura básica de pastas
 
